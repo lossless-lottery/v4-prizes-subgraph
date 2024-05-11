@@ -1,0 +1,7 @@
+{
+  "network": "bvm-testnet",
+  "PrizeDistributor": {
+    "address": "0x41538A026B3Db4e77C62f3FaD46e3C459fef9571",
+    "startBlock": "1253755"
+  }
+}
